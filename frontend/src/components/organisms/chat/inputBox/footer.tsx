@@ -19,7 +19,7 @@ export default function InputBoxFooter() {
           barSpacing={2}
         />
       ) : (
-        <WaterMark />
+        <div />
       )}
     </Stack>
   );
